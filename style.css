@@ -1,5 +1,10 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+#contact-h4 {
+  text-align: center;
+  color: sienna; 
+}
+
 h1 {
   color: sienna;
 }
